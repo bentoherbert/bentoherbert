@@ -1,6 +1,6 @@
 ### Olá, eu sou o Bento Herbert 👋
 
-- 🔭 Procurando Vagas de Estágio e Desenvolvedor Front-end JR
+- 🔭 Procurando Vagas de Desenvolvedor Back-end JR
 - 🌱 Estudando: HTML, CSS e JavaScript
 - 😄 Pronouns: ele/dele
 
