@@ -1,7 +1,7 @@
 ### Olá, eu sou o Bento Herbert 👋
 
-- 🔭 Procurando Vagas de Desenvolvedor Back-end e Front-end JR
-- 🌱 Estudando: Java, HTML, CSS e JavaScript
+- 🔭 Procurando Vagas de Desenvolvedor Back-end JR
+- 🌱 Estudando: Java
 - 😄 Pronouns: ele/dele
 
 <div align="center">
